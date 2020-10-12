@@ -1,0 +1,49 @@
+[1mdiff --git a/MOHON DIBACA!.txt b/MOHON DIBACA!.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 82b42f6..0000000[m
+[1m--- a/MOHON DIBACA!.txt[m	
+[1m+++ /dev/null[m
+[36m@@ -1,43 +0,0 @@[m
+[31m-=============================[m
+[31m-DATABASE[m
+[31m--------------[m
+[31m-1. pertama, buat database dengan nama wisata di phpmyadmin[m
+[31m-2. setelah itu import database yg terdapat di folder "wisata.sql" ke database yg telah dibuat tadi di phpmyadmin[m
+[31m-3. masuk ke folder application->config->database.php, lalu scroll ke bawah dan ganti 'database' => 'wpu_login'  menjadi 'database' => 'wisata' , atau sesuaikan dengan nama database yang telah dibuat sebelumnya.[m
+[31m-=============================[m
+[31m-HALAMAN WEB[m
+[31m---------------[m
+[31m-http://localhost/wisata/[m
+[31m-=============================[m
+[31m-LOGIN ADMIN[m
+[31m----------------[m
+[31m-url : http://localhost/wisata/auth[m
+[31m-email : admin@gmail.com[m
+[31m-password : admin123[m
+[31m-=============================[m
+[31m-UBAH NAMA FOLDER [m
+[31m-----------------[m
+[31m-note : jangan sembarangan ubah nama folder, kalau nama folder root/folder "wisata" di ubah harus ubah "base url" di folder application->config->config.php[m
+[31m-[m
+[31m-==================================================[m
+[31m-SILAHKAN KEMBANGKAN DAN KREASIKAN SENDIRI [m
+[31m--------------------------------------------------[m
+[31m-bisa liat sambil latihan di youtube dibawah ini : [m
+[31m-==================================================[m
+[31m-[m
+[31m-https://www.youtube.com/watch?v=jyQRPwZLGWc&list=PLFIM0718LjIVdFn6LHoD5gJ8UjvI1Baqp[m
+[31m-[m
+[31m-https://www.youtube.com/watch?v=8ROgaHfLRq0&list=PLFIM0718LjIXU8ul9FiN-owk04cQKtHPw[m
+[31m-[m
+[31m-https://www.youtube.com/watch?v=tBKOb8Ib5nI&list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx[m
+[31m-[m
+[31m-[m
+[31m-Best Regard,[m
+[31m-[m
+[31m-[m
+[31m-Alfharizky Fauzi[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
